@@ -11,7 +11,7 @@ public class Hello {
 
 	public void methodA( ) { }
 
-	public void methodb() { }
+	public void methodB() { }
 
 	public void methodC() { }
 }
