@@ -9,9 +9,9 @@ public class Hello {
 		hello.methodC();
 	}
 
-	public void methodA(void ) { }
+	public void methodA( ) { }
 
-	public void methodb(void) { }
+	public void methodb() { }
 
-	public void methodC(void) { }
+	public void methodC() { }
 }
